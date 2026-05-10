@@ -1,126 +1,90 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Gabriel&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=〔%20Desenvolvedor%20·%20Criador%20de%20Bots%20·%20Sempre%20Evoluindo%20〕&descAlignY=65&descSize=16&descColor=ccc"/>
-
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D0D0D,50:4B0082,100:0D0D0D&height=160&section=header&text=Gabriel&fontSize=70&fontColor=ffffff&animation=blinking&fontAlignY=55&desc=✦%20Desenvolvedor%20·%20Criador%20de%20Bots%20·%20Sempre%20Evoluindo%20✦&descAlignY=80&descSize=14&descColor=BB86FC"/>
 </div>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3000&pause=800&color=9D00FF&background=00000000&center=true&vCenter=true&random=false&width=650&lines=%E2%9A%A1+Criando+bots+%26+automa%C3%A7%C3%B5es;%F0%9F%A4%96+Discord+%7C+Telegram+%7C+Web;%F0%9F%94%A5+Node.js+%7C+JavaScript+%7C+Python;%F0%9F%8C%99+Modo+escuro+%C3%A9+o+%C3%BAnico+modo" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=600&color=BB86FC&center=true&vCenter=true&random=false&width=700&lines=⚡+Criando+bots+que+fazem+a+diferença...;🤖+Discord+%7C+Telegram+%7C+WhatsApp;🔥+JavaScript+%7C+Node.js+%7C+Python;🌙+Modo+escuro+é+o+único+modo;🚀+Sempre+aprendendo%2C+sempre+evoluindo" alt="Typing SVG" />
 </div>
 
-<br/>
+<br>
 
 <div align="center">
-
-<a href="https://github.com/jubis87">
-  <img src="https://img.shields.io/github/followers/jubis87?label=Followers&style=social" />
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=jubis87&color=9D00FF&style=flat-square&label=👁️+Views"/>
-
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-BB86FC?style=for-the-badge&logo=circle&logoColor=white&labelColor=0D0D0D"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/FOCO-BOTS_%26_AUTOMAÇÃO-CF6679?style=for-the-badge&logo=target&logoColor=white&labelColor=0D0D0D"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=jubis87&color=BB86FC&style=for-the-badge&label=VISITAS&labelColor=0D0D0D"/>
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 〔 ⚡ Tecnologias 〕
+<br>
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/>
-      <br><b>JavaScript</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/>
-      <br><b>TypeScript</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/>
-      <br><b>Node.js</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
-      <br><b>Python</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
-      <br><b>React</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
-      <br><b>MongoDB</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord"/>
-      <br><b>Discord.js</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
-      <br><b>Git</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"/>
-      <br><b>HTML5</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/>
-      <br><b>CSS3</b>
-    </td>
-  </tr>
-</table>
-
+<img src="https://github-widgetbox.vercel.app/api/profile?username=jubis87&data=followers,repositories,stars,commits&theme=viridescent" alt="GitHub WidgetBox" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
-## 〔 📊 Estatísticas 〕
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header"/>
+
+<h2 align="center">⚔️ Tecnologias</h2>
 
 <div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,react,html,css,mongodb,discord,git&theme=dark&perline=5" />
+</div>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jubis87&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=9D00FF&icon_color=FF003C&text_color=ffffff&include_all_commits=true&count_private=true&ring_color=9D00FF"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubis87&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=9D00FF&text_color=ffffff&langs_count=6"/>
+<br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header"/>
+
+<h2 align="center">📊 Estatísticas</h2>
+
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=jubis87&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0D0D0D&title_color=BB86FC&icon_color=CF6679&text_color=ffffff&include_all_commits=true&count_private=true" />
+  <img width="390" src="https://streak-stats.demolab.com?user=jubis87&theme=material-palenight&hide_border=true&background=0D0D0D&ring=BB86FC&fire=CF6679&currStreakLabel=BB86FC&sideLabels=aaaaaa&dates=777777" />
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jubis87&theme=tokyonight-duo&hide_border=true&background=0D0D0D&ring=9D00FF&fire=FF003C&currStreakLabel=9D00FF&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
-
+  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubis87&layout=donut&theme=material-palenight&hide_border=true&bg_color=0D0D0D&title_color=BB86FC&text_color=ffffff&langs_count=6"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
-## 〔 🏆 Conquistas 〕
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header"/>
+
+<h2 align="center">📈 Atividade</h2>
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jubis87&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jubis87&bg_color=0D0D0D&color=BB86FC&line=7B2FBE&point=CF6679&area=true&hide_border=true&area_color=4B0082" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
-## 〔 📡 Me Encontre 〕
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header"/>
+
+<h2 align="center">🏆 Conquistas</h2>
 
 <div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF003C)](mailto:gabrielrogues7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=9D00FF)](https://github.com/jubis87)
-
+<img src="https://github-profile-trophy.vercel.app/?username=jubis87&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </div>
 
-<br/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header"/>
+
+<h2 align="center">📡 Me Encontre</h2>
 
 <div align="center">
+  <a href="mailto:gabrielrogues7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=CF6679"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/jubis87">
+    <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=BB86FC"/>
+  </a>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn"/>
+<br>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D0D0D,50:4B0082,100:0D0D0D&height=100&section=footer&animation=blinking"/>
 </div>
