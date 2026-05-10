@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=19&duration=2000&pause=700&color=E040FB&center=true&vCenter=true&multiline=false&random=false&width=750&lines=⚡+Transformando+ideias+em+código+real;🤖+Bots+para+Discord+%7C+Telegram+%7C+WhatsApp;🔥+Node.js+%7C+JavaScript+%7C+Python;🌙+Se+não+tem+modo+escuro%2C+não+serve;🚀+Sempre+aprendendo%2C+nunca+parando" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=19&duration=2000&pause=700&color=E040FB&center=true&vCenter=true&random=false&width=750&lines=⚡+Transformando+ideias+em+código+real;🤖+Bots+para+Discord+%7C+Telegram+%7C+WhatsApp;🔥+Node.js+%7C+JavaScript+%7C+Python;🌙+Se+não+tem+modo+escuro%2C+não+serve;🚀+Sempre+aprendendo%2C+nunca+parando"/>
 </div>
 
 <br/>
@@ -17,6 +17,8 @@
 </div>
 
 <br/>
+
+<div align="center">
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -32,12 +34,11 @@
 └─────────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:7B2FBE,100:0a0a0a&height=2"/>
 
-<h2>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
-Tecnologias
-</h2>
+<h2 align="center">⚔️ Tecnologias</h2>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,react,html,css,mongodb,discord,git&theme=dark&perline=5"/>
@@ -47,28 +48,23 @@ Tecnologias
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:7B2FBE,100:0a0a0a&height=2"/>
 
-<h2>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
-Estatísticas
-</h2>
+<h2 align="center">📊 Estatísticas</h2>
 
 <div align="center">
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=jubis87&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=E040FB&icon_color=CE93D8&text_color=ffffff&include_all_commits=true&count_private=true&ring_color=7B2FBE"/>
-<img width="390" src="https://streak-stats.demolab.com?user=jubis87&hide_border=true&background=0a0a0a&ring=E040FB&fire=CE93D8&currStreakLabel=E040FB&sideLabels=aaaaaa&dates=666666&stroke=7B2FBE"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jubis87&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=E040FB&icon_color=CE93D8&text_color=ffffff&include_all_commits=true&count_private=true"/>
+&nbsp;
+<img height="180" src="https://streak-stats.demolab.com?user=jubis87&hide_border=true&background=0a0a0a&ring=E040FB&fire=CE93D8&currStreakLabel=E040FB&sideLabels=aaaaaa&dates=666666"/>
 </div>
 
 <div align="center">
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubis87&layout=donut-vertical&hide_border=true&bg_color=0a0a0a&title_color=E040FB&text_color=ffffff&langs_count=6"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubis87&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=E040FB&text_color=ffffff&langs_count=6"/>
 </div>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:7B2FBE,100:0a0a0a&height=2"/>
 
-<h2>
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28">
-Atividade
-</h2>
+<h2 align="center">📈 Atividade</h2>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jubis87&bg_color=0a0a0a&color=CE93D8&line=7B2FBE&point=E040FB&area=true&hide_border=true&area_color=1a0030&radius=8"/>
@@ -78,10 +74,17 @@ Atividade
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:7B2FBE,100:0a0a0a&height=2"/>
 
-<h2>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28">
-Me Encontre
-</h2>
+<h2 align="center">🏆 Conquistas</h2>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=jubis87&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:7B2FBE,100:0a0a0a&height=2"/>
+
+<h2 align="center">📡 Me Encontre</h2>
 
 <div align="center">
 <a href="mailto:gabrielrogues7@gmail.com">
