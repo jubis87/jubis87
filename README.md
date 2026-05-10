@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Gabriel&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=〔%20Developer%20·%20Bot%20Builder%20·%20Always%20Evolving%20〕&descAlignY=65&descSize=16&descColor=ccc"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Gabriel&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=〔%20Desenvolvedor%20·%20Criador%20de%20Bots%20·%20Sempre%20Evoluindo%20〕&descAlignY=65&descSize=16&descColor=ccc"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3000&pause=800&color=9D00FF&background=00000000&center=true&vCenter=true&random=false&width=650&lines=%E2%9A%A1+Building+bots+%26+automations;%F0%9F%A4%96+Discord+%7C+Telegram+%7C+Web;%F0%9F%94%A5+Node.js+%7C+JavaScript+%7C+Python;%F0%9F%8C%99+Dark+mode+is+the+only+mode" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3000&pause=800&color=9D00FF&background=00000000&center=true&vCenter=true&random=false&width=650&lines=%E2%9A%A1+Criando+bots+%26+automa%C3%A7%C3%B5es;%F0%9F%A4%96+Discord+%7C+Telegram+%7C+Web;%F0%9F%94%A5+Node.js+%7C+JavaScript+%7C+Python;%F0%9F%8C%99+Modo+escuro+%C3%A9+o+%C3%BAnico+modo" alt="Typing SVG" />
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 〔 ⚡ Arsenal 〕
+## 〔 ⚡ Tecnologias 〕
 
 <div align="center">
 
@@ -81,7 +81,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 〔 📊 Stats 〕
+## 〔 📊 Estatísticas 〕
 
 <div align="center">
 
@@ -108,7 +108,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 〔 📡 Contato 〕
+## 〔 📡 Me Encontre 〕
 
 <div align="center">
 
